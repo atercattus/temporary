@@ -1,5 +1,5 @@
 package lol
 
 func Lol() {
-	println("lol v2.7")
+	println("lol v2.8")
 }
