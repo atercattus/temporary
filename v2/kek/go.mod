@@ -1,3 +1,3 @@
-module github.com/111111/temporary/v2/kek
+module github.com/atercattus/temporary/v2/kek
 
 go 1.17
