@@ -1,5 +1,5 @@
 package temporary
 
 func Lol() {
-	println("lol kek")
+	println("lol kek v1")
 }
