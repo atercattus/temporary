@@ -1,5 +1,5 @@
-package v3
+package lol
 
 func Lol() {
-	println("v3/lol/v3 4")
+	println("v3/lol/v3 5")
 }
